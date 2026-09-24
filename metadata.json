@@ -1,0 +1,6 @@
+{
+  "name": "Distributeur Automatique - Réseau de Petri",
+  "description": "Simulation et gestion interactive d'un distributeur automatique de boissons modélisé par Réseau de Petri (Petri Net) avec FastAPI et React Flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
